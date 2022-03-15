@@ -36,3 +36,9 @@ document.getElementById("demo").innerHTML = sln;
 let d = new Date();
 document.getElementById("demo").innerHTML = d;
 </script>`
+
+# Education
+**2016-2020** Belarusian State University of Informatics and Radioelectronics (BSUIR) - Faculty of Information Technology (FITU) - Information Technology and Administration in Technical Systems
+
+# English level
+*Pre-intermediate (A2)*
